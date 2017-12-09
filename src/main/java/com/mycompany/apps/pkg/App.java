@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
 	if (args.length != 0) {
 		System.out.println("Did not expect any parameters");
+		System.out.println("Don't like it.");
 		System.exit(-1);
 	}
 	System.exit(0);
