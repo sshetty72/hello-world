@@ -14,6 +14,7 @@ public class App
 		System.out.println("Don't like it.");
 		System.exit(-1);
 	}
+	System.exit("No args passed ... as expected.");
 	System.exit(0);
     }
 }
